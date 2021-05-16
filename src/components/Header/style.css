@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600&family=Playfair+Display:wght@400;500;600&display=swap');
+
+
+body {
+    /* background-color: rgb(238,216,211); */
+    background-color: #efe9db;
+}
+
+.name {
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 500 !important;
+    font-size: 44px !important;
+    color: #766c5b !important;
+}
+
+.color {
+    background-color: #efe9db;
+}
+
+a {
+    color: #766c5b;
+
+}
+
+a:hover {
+    color: #bbad94;
+    text-decoration: underline;
+
+}
+
+.navbar-nav {
+    color: #766c5b;
+}
+
+li {
+    color: #766c5b;
+}
+
+.navbar-toggler-icon {
+    color: #766c5b !important;
+}

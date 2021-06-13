@@ -1,14 +1,17 @@
 import React from 'react';
 import PhotoCard from "../../components/PhotoCard";
+// import philippines from "../../assets/EntalulaIsland.jpg";
+// import Cambodia from "../../assets/cambodia.jpg";
+
 
 const PhotoImg = [
     {
-        image: "../../../public/images/philippines.jpg",
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1623617550/EntalulaIsland_vv240i.jpg",
         title: "Philippines",
         alt: "Entalula island in the Philippines with turqouise water and a small stretch of white sand beach that is surrounded by palm trees."
     },
     {
-        image: "./public/images/maldives.jpg",
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/c_scale,h_900/v1623617861/sunset-lily-beach-resort-bungalow_npp7ty.jpg",
         title: "Maldives",
         alt: "Over the water villas on stilts in the Maldives with an orange and pink sky during sunset"
     },

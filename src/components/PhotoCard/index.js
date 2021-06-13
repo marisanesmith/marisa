@@ -6,9 +6,11 @@ import { Grid, Card, Typography } from "@material-ui/core";
 
 const useStyles = makeStyles({
     root: {
+        borderBox: 'box-sizing',
+        display: "inline-block",
         width: 350,
         marginLeft: "15px",
-        marginBottom: "75px",
+        // marginBottom: "75px",
         padding: "10px",
         backgroundColor: "#efe9db",
     },
@@ -16,6 +18,7 @@ const useStyles = makeStyles({
         height: "350px",
         length: "350px",
         margin: "15px",
+        marginBottom: "85px"
     },
     typography: {
         marginBottom: "20px",

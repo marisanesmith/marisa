@@ -15,10 +15,10 @@ h2 {
 }
 
 #bio-image {
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    /* width: 350px; */
     margin-right: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 body {

@@ -21,9 +21,12 @@ const useStyles = makeStyles({
     },
     typography: {
         // marginBottom: "20px",
-        marginTop: "10px",
+        marginTop: "15px",
         // padding: "10px",
-        fontSize: "24px"
+        fontSize: "24px",
+        textTransform: "lowercase",
+        fontFamily: "Playfair Display",
+        color: "#766c5b"
         
     }
 })

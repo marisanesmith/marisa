@@ -15,15 +15,14 @@ const useStyles = makeStyles({
         backgroundColor: "#efe9db",
     },
     images: {
-        height: "350px",
-        length: "350px",
+        maxWidth: "100%",
         margin: "15px",
-        marginBottom: "85px"
+        // marginBottom: "85px"
     },
     typography: {
-        marginBottom: "20px",
+        // marginBottom: "20px",
         marginTop: "10px",
-        padding: "10px",
+        // padding: "10px",
         fontSize: "24px"
         
     }

@@ -6,12 +6,12 @@ import PhotoCard from "../../components/PhotoCard";
 
 const PhotoImg = [
     {
-        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1623617550/EntalulaIsland_vv240i.jpg",
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1624062223/entalula-island_lahwdp.jpg",
         title: "Philippines",
         alt: "Entalula island in the Philippines with turqouise water and a small stretch of white sand beach that is surrounded by palm trees."
     },
     {
-        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/c_scale,h_900/v1623617861/sunset-lily-beach-resort-bungalow_npp7ty.jpg",
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1624062390/maldives-2_kqfo1t.jpg",
         title: "Maldives",
         alt: "Over the water villas on stilts in the Maldives with an orange and pink sky during sunset"
     },
@@ -26,9 +26,9 @@ const PhotoImg = [
         alt: "Red fishing hut houses on rocks by the water with a large mountain in the background"
     },
     {
-        image: "./images/bali.jpg",
-        title: "Bali",
-        alt: "Two people walking along a path in Bali surrounded by palm trees"
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1624064313/DSC09791_japaeo.jpg",
+        title: "New York City",
+        alt: "Girl sitting on the Brooklyn Bridge at sunset in New York City"
     },
     {
         image: "./images/maldive.jpg",
@@ -36,14 +36,14 @@ const PhotoImg = [
         alt: "Two people laying on a sandbank surrounded by blue water in the Maldives with a boat nearby"
     },
     {
-        image: "./images/temple.jpg",
-        title: "Bali",
-        alt: "A pink sky during sunset with pink flowers in the foreground and a temple in the background"
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1624063040/santorini-2_pfjg6w.jpg",
+        title: "Greece",
+        alt: "Blue domed churches on the edge of the caldera in Santorini, Greece"
     },
     {
-        image: "./images/vivian.jpg",
+        image: "https://res.cloudinary.com/dl5xn7tvg/image/upload/v1624062135/twin-lagoon_ykxqe7.jpg",
         title: "Philippines",
-        alt: "A girl sitting on a beach with palm trees and huts behind her"
+        alt: "A drone shot of large limestone cliffs surrounded by turquoise and dark blue water"
     },
 ]
 
